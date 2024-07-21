@@ -177,13 +177,13 @@
 
 # Architecture
 
-![architecture](https://github.com/nhnacademy-be4-ckin/.github/assets/84575041/1d703478-41b3-4f41-ae93-00b4cd0e3e45)
+![5RITANG_ARCHITECTURE](https://github.com/user-attachments/assets/c0eef368-67fc-42c2-8d44-54a433ca45bd)
 
 ---
 
 # CI/CD
 
-![image](https://github.com/nhnacademy-be4-ckin/.github/assets/84575041/337babfb-d2ce-4106-973e-ca854647b431)
+![5RITANG_CI_CD_PIPELINE](https://github.com/user-attachments/assets/8d77ecee-dbc8-42ea-9de5-76297135527e)
 
 ---
 
