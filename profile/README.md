@@ -13,7 +13,7 @@
 | [김기욱](https://github.com/username1) | [GitHub 프로필](https://github.com/username1) |
 | [김다운](https://github.com/username2) | [GitHub 프로필](https://github.com/username2) |
 | [김태환](https://github.com/username3) | [GitHub 프로필](https://github.com/username3) |
-| [이경헌](https://github.com/username3) | [GitHub 프로필](https://github.com/username3) |
+| [이경헌](https://github.com/dlrudgjs104) | [GitHub 프로필](https://github.com/dlrudgjs104) |
 | [이기훈](https://github.com/kihoo-ni)  | [GitHub 프로필](https://github.com/kihoo-ni) |
 
 ---
