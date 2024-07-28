@@ -191,7 +191,8 @@
 
 # CI/CD
 
-![2024-07-28 15_39_43 485](https://github.com/user-attachments/assets/2a4ff941-7586-456c-8679-fe7dc5cb7c18)
+![2024-07-28 17_53_27 335](https://github.com/user-attachments/assets/8f79ccdf-107f-4a37-afe5-e947dc193614)
+
 
 ---
 
