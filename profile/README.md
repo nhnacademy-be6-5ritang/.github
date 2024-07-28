@@ -139,7 +139,15 @@
  ***https://www.erdcloud.com/d/vD5T9WrpW2PMZZvR2***  `ERDCloud` 활용하여 버전업하면서 관리함.
 
 5ritang_final
+![오리탕 ERD v3 0](https://github.com/user-attachments/assets/f121f58d-0316-49cb-b57e-857862e413a2)
+
+
+<details>
+<summary>오리탕 v2.8</summary>
+
+
 ![오리탕 ERD Final](https://github.com/user-attachments/assets/206f80a4-afe0-4343-adc9-1da1888b4a59)
+</details>
 
 
 
@@ -177,13 +185,13 @@
 
 # Architecture
 
-![5RITANG_ARCHITECTURE](https://github.com/user-attachments/assets/c0eef368-67fc-42c2-8d44-54a433ca45bd)
+![5RITANG_ARCHITECTURE](https://github.com/user-attachments/assets/a69b900f-bd39-44b4-bfc1-21bdbf283c93)
 
 ---
 
 # CI/CD
 
-![5RITANG_CI_CD_PIPELINE](https://github.com/user-attachments/assets/8d77ecee-dbc8-42ea-9de5-76297135527e)
+![2024-07-28 15_39_43 485](https://github.com/user-attachments/assets/2a4ff941-7586-456c-8679-fe7dc5cb7c18)
 
 ---
 
@@ -280,7 +288,7 @@ https://naver.github.io/hackday-conventions-java/
 ---
 # 🎨 개인별 구현한것 (  1. 본인이름 2. 본인이 구현한 것 3. 사용한 기술 순으로 작성  )
 
-
+---
 
 # 자기이름
 
