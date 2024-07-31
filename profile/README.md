@@ -248,8 +248,8 @@
 <img width="1456" alt="스크린샷 2024-07-21 오후 9 05 55" src="https://github.com/user-attachments/assets/14338c03-bb8c-46f5-ae96-987743965d21">
 
 #### Coupon
+<img width="1444" alt="스크린샷 2024-07-31 오후 1 51 44" src="https://github.com/user-attachments/assets/a23bba14-c23d-4c20-8e0a-bf761b0787a5">
 
-<img width="1448" alt="스크린샷 2024-07-21 오후 9 06 34" src="https://github.com/user-attachments/assets/6a4f4a00-f875-4077-966c-ffcd04a84692">
 
 
 
@@ -262,6 +262,9 @@
 #### Coupon : https://www.5ritang.store/coupons/api
 
 <img width="1466" alt="스크린샷 2024-07-21 오후 9 03 42" src="https://github.com/user-attachments/assets/0a538c9c-a7a0-48e4-8689-f19104db995d">
+
+
+#### account : https://www.5ritang.store/auth
 
 ---
 
