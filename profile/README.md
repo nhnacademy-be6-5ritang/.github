@@ -198,7 +198,8 @@
 
 # Architecture
 
-![5RITANG_ARCHITECTURE](https://github.com/user-attachments/assets/a69b900f-bd39-44b4-bfc1-21bdbf283c93)
+![final_architecture](https://github.com/user-attachments/assets/c2d577d8-3a12-46c7-903d-2e27f14fbfa4)
+
 
 ---
 
