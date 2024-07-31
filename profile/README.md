@@ -1,6 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhnacademy-be6-5ritang&count_bg=%2379C83D&title_bg=%23555555&icon=duckduckgo.svg&icon_color=%23E7E7E7&title=%EC%98%A4%EB%A6%AC%ED%83%95+%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 🦆 Team_5ritang 
+**프로젝트 기간 : 2024.06.11. ~ 2024.08.02**
+
+스프링 부트와 클라우드 서비스를 활용한 온라인 도서 쇼핑몰 프로젝트입니다.
 
 ![ORITANG_OFFICIAL_BG](https://github.com/user-attachments/assets/30cb4e39-ba7a-401a-a849-6485a9fa0511)
 
@@ -27,16 +30,6 @@
 - [GATEWAY](https://github.com/nhnacademy-be6-5ritang/book-store-cloud-gateway)
 - [EUREKA](https://github.com/nhnacademy-be6-5ritang/book-store-cloud-eureka)
 - [STUDY](https://github.com/nhnacademy-be6-5ritang/5ritang-study)
-
-
----
-
-# 5ritang_project
-
-**프로젝트 기간 : 2024.06.11. ~ 2024.08.02**
-
-스프링 부트와 클라우드 서비스를 활용한 온라인 도서 쇼핑몰 프로젝트입니다.
-
 
 ---
 
