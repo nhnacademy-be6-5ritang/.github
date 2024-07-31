@@ -360,7 +360,7 @@ https://naver.github.io/hackday-conventions-java/
 |           | - N+1 문제를 공부하고 Querydsl을 적용하여 이를 예방하기 위해 노력                         |
 |           | - Coupon REST API 문서를 Swagger를 통해 배포 서버에서 볼 수 있게 함                         |
 |           | - 사용자 쿠폰 발급 시 RabbitMQ를 이용하여 발급 처리   
----
+
 
 ## 사용한 기술
 - rabbitmq
