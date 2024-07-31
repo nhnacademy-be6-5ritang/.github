@@ -134,12 +134,12 @@
     <img src="https://img.shields.io/badge/naver%20api-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 </p>
 
-## Design Tool
+### Design Tool
 <p>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-## API Testing
+### API Testing
 <p>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
