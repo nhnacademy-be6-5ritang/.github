@@ -341,7 +341,7 @@ https://naver.github.io/hackday-conventions-java/
 
 
 ---
-# 이기훈
+# [이기훈](https://github.com/kihoo-ni)
 
 ## 구현한 기능
 
