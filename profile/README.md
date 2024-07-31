@@ -50,95 +50,113 @@
 
 # 개발 환경
 
-### 개발 도구
-
-- Intellij IDEA - Ultimate
+### 🛠 개발 도구
+<p>
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
+</p>
 
 ### Language
-
-- Java 21 LTS/ OpenJDK
+<p>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+</p>
 
 ### Build Tools
-
-- Maven
+<p>
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
+</p>
 
 ### Develop
-
-- Spring Framework (6.x)
-- Spring Boot (3.3.x)
-- Spring Cloud Netflix(eureka)
-- Spring Cloud Gateway
-- Spring Cloud Config
-- Spring Cloud OpenFeign
-- Spring Data JPA, Querydsl
-- Spring Security
+<p>
+    <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Cloud%20Netflix-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Cloud%20Config-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Cloud%20OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Querydsl-0095D5?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white">
+</p>
 
 ### Test
-
-- Junit5
-- AssertJ
-- Mockito
-- SonarQube
+<p>
+    <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+    <img src="https://img.shields.io/badge/AssertJ-26A69A?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/Mockito-FFCA28?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
+</p>
 
 ### Database
-
-- MySQL (8.x)
-- Redis
+<p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+</p>
 
 ### Search Engine
-
-- Elastic Search (7.x)
+<p>
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+</p>
 
 ### ERD
-
-- ERDCloud
+<p>
+    <img src="https://img.shields.io/badge/ERDCloud-000000?style=for-the-badge&logo=&logoColor=white">
+</p>
 
 ### Message Queue
-
-- RabbitMQ 
+<p>
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+</p>
 
 ### CI/CD
-
-- Github Action
-- Docker
-- ubuntu
-- linux
+<p>
+    <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
 
 ### UI
-
-- Bootstrap
-- jquery
-- javascript
-- Thymeleaf
+<p>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
+</p>
 
 ### NHN Cloud
+<p>
+    <img src="https://img.shields.io/badge/NHN%20Cloud-000000?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/Instance-000000?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/Secure%20Key%20Manager-000000?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/Image%20Manager-000000?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/Log%20%26%20Crash%20Search-000000?style=for-the-badge&logo=&logoColor=white">
+</p>
 
-- Instance
-- Secure Key Manager
-- Image Manager
-- Log & Crash Search
-
-### Web server
-
-- nginx
+### Web Server
+<p>
+    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+</p>
 
 ### ETC.
-
-- Dooray Hook Sender
-- Toast UI
-- GitHub 
-- Payco Oauth
-- Aladin api
-- naver api
-
-
-## Design Tool
-
-- figma
+<p>
+    <img src="https://img.shields.io/badge/Dooray%20Hook%20Sender-000000?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/Toast%20UI-000000?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Payco%20Oauth-000000?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/Aladin%20api-000000?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/naver%20api-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+</p>
 
 ## Design Tool
+<p>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
 
-- postman
+## API Testing
+<p>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</p>
+
 
 ---
 
