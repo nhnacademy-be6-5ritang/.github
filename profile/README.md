@@ -5,6 +5,8 @@
 
 스프링 부트와 클라우드 서비스를 활용한 온라인 도서 쇼핑몰 프로젝트입니다.
 
+**https://5ritang.store/**
+
 ![ORITANG_OFFICIAL_BG](https://github.com/user-attachments/assets/30cb4e39-ba7a-401a-a849-6485a9fa0511)
 
 
@@ -30,14 +32,6 @@
 - [GATEWAY](https://github.com/nhnacademy-be6-5ritang/book-store-cloud-gateway)
 - [EUREKA](https://github.com/nhnacademy-be6-5ritang/book-store-cloud-eureka)
 - [STUDY](https://github.com/nhnacademy-be6-5ritang/5ritang-study)
-
----
-
-
-
-# 5ritang_project_url
-
-**https://5ritang.store/**
 
 ---
 
