@@ -389,3 +389,32 @@ https://naver.github.io/hackday-conventions-java/
 - Log & Crash
 - 워지윅 에디터
 - Redis 캐싱
+
+---
+
+# [김기욱](https://github.com/2897robo)
+
+## 구현한 기능
+
+| 역할      | 상세내용                                                                                  |
+|-----------|-------------------------------------------------------------------------------------------|
+| **인프라** |                                                                                           |
+|           | - Elastic Search, NHN Cloud 인스턴스 초기 설정                                             |
+| **도서**  |                                                                                           |
+|           | - 외부 API(네이버, 알라딘) 활용한 도서 정보 가져오기 및 매핑                              |
+|           | - NHN Cloud Image Manager 이미지 API를 사용해 이미지 가져오기 및 업로드                    |
+| **검색**  |                                                                                           |
+|           | - LogStash, Kibana, Elastic 초기 설정                                                     |
+|           | - 저자, 도서, 태그, 출판사 기준으로 검색 기능 구현                                        |
+---
+
+## 사용한 기술
+- Elastic Search
+- LogStash
+- Kibana
+- NHN Cloud
+- 외부 API (네이버, 알라딘)
+- NHN Cloud Image Manager
+
+---
+
