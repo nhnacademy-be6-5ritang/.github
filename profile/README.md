@@ -10,7 +10,6 @@
 ![ORITANG_OFFICIAL_BG](https://github.com/user-attachments/assets/30cb4e39-ba7a-401a-a849-6485a9fa0511)
 
 
-
 # 5ritang_Member
 
 | 멤버                                  | GitHub 프로필 |
@@ -32,6 +31,13 @@
 - [GATEWAY](https://github.com/nhnacademy-be6-5ritang/book-store-cloud-gateway)
 - [EUREKA](https://github.com/nhnacademy-be6-5ritang/book-store-cloud-eureka)
 - [STUDY](https://github.com/nhnacademy-be6-5ritang/5ritang-study)
+
+---
+
+# 시연 영상
+
+[![Watch video](https://img.youtube.com/vi/Kv6m8ufEfEw/0.jpg)](https://www.youtube.com/watch?v=Kv6m8ufEfEw)
+
 
 ---
 
