@@ -309,13 +309,7 @@ https://naver.github.io/hackday-conventions-java/
 
 </details>
 
----
-# 개인별 구현내용
 
----
-# 자기이름
-## 자기가 구현한것
-## 사용한 기술
 
 ---
 
