@@ -310,7 +310,8 @@ https://naver.github.io/hackday-conventions-java/
 </details>
 
 
-
+---
+# 개인별 구현 상세내역
 ---
 
 # 김다운
