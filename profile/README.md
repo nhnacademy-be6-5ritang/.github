@@ -318,7 +318,6 @@ https://naver.github.io/hackday-conventions-java/
 # 개인별 구현 상세내역
 ---
 
----
 # [김다운](https://github.com/Daun0808)
 
 ## 구현한 기능
@@ -438,5 +437,3 @@ https://naver.github.io/hackday-conventions-java/
 - NHN Cloud
 - 외부 API (네이버, 알라딘)
 - NHN Cloud Image Manager
-
-
