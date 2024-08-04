@@ -318,28 +318,6 @@ https://naver.github.io/hackday-conventions-java/
 # 개인별 구현 상세내역
 ---
 
-# 김다운
-
-## 구현한 기능
-- CI/CD 구축
-- 주문 시 포인트 적립 및 포인트 사용
-- 포인트 정책 구현
-- 비회원 & 회원 주문
-- 주문 내역 조회
-- 환불 처리
-- 관리자 주문 처리
-- 포장지 선택
-- 배송 관리
-- 재고 처리
-- 결제 
-- 결제 취소
-- 결제 상태에 따른 주문 상태 변경
-
-## 사용한 기술
-- Git Action CI/CD
-- Toss Payments
-- DAUM 주소 API
-
 ---
 # [김다운](https://github.com/Daun0808)
 
@@ -353,7 +331,7 @@ https://naver.github.io/hackday-conventions-java/
 |               | - 주문 시 포인트 적립 및 사용                                   |
 |               | - 포인트 정책 구현                                            |
 | **주문**       |                                                           |
-|               | - 비회원 및 회원 주문 처리                                     |
+|               | - 비회원 & 회원 주문 처리                                     |
 |               | - 주문 내역 조회                                             |
 |               | - 환불 처리                                                 |
 |               | - 관리자 주문 처리                                            |
@@ -367,11 +345,9 @@ https://naver.github.io/hackday-conventions-java/
 |               | - 결제 상태에 따른 주문 상태 변경                                 |
 
 ## 사용한 기술
-- **Git Action CI/CD**: 자동화된 배포 및 테스트 파이프라인 구축
-- **Toss Payments**: 결제 처리 및 포인트 시스템 통합
-- **DAUM 주소 API**: 주소 검색 및 자동 완성 기능 제공
-
-
+- Git Action CI/CD
+- Toss Payments
+- DAUM 주소 API
 
 ---
 # [이기훈](https://github.com/kihoo-ni)
@@ -463,5 +439,4 @@ https://naver.github.io/hackday-conventions-java/
 - 외부 API (네이버, 알라딘)
 - NHN Cloud Image Manager
 
----
 
