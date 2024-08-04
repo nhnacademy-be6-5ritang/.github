@@ -269,10 +269,9 @@
 
 #### Coupon : https://www.5ritang.store/coupons/api
 
+#### Account : https://www.5ritang.store/auth
+
 <img width="1466" alt="스크린샷 2024-07-21 오후 9 03 42" src="https://github.com/user-attachments/assets/0a538c9c-a7a0-48e4-8689-f19104db995d">
-
-
-#### account : https://www.5ritang.store/auth
 
 ---
 
