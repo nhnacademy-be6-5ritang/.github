@@ -29,20 +29,6 @@
 </table></markdown-accessiblity-table>
 </div>
 
-
-
-# 5ritang_Member
-
-| 멤버                                  | GitHub 프로필 |
-|-------------------------------------|---------------|
-| [김기욱](https://github.com/2897robo) | [GitHub 프로필](https://github.com/2897robo) |
-| [김다운](https://github.com/Daun0808) | [GitHub 프로필](https://github.com/Daun0808) |
-| [김태환](https://github.com/taehwan01) | [GitHub 프로필](https://github.com/taehwan01) |
-| [이경헌](https://github.com/dlrudgjs104) | [GitHub 프로필](https://github.com/dlrudgjs104) |
-| [이기훈](https://github.com/kihoo-ni)  | [GitHub 프로필](https://github.com/kihoo-ni) |
-
----
-
 #  5ritang_Repository
 
 - [BACK](https://github.com/nhnacademy-be6-5ritang/book-store-back)
