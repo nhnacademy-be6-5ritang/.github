@@ -369,7 +369,7 @@ https://naver.github.io/hackday-conventions-java/
 
 ---
 
-# 이경헌
+# [이경헌](https://github.com/dlrudgjs104)
 
 ## 구현한 기능
 
