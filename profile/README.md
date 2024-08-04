@@ -13,20 +13,21 @@
 <div align="center" dir="auto">
   <div class="markdown-heading" dir="auto">
     <h3 class="heading-element" dir="auto"> NHN Academy 6기 - 5ritang 팀 </h3>
-    <a id="user-content--nhn-academy-6기---5ritang-팀-" class="anchor" aria-label="Permalink:  NHN Academy 6기 - 5ritang 팀">
-    </a>
+    <a id="user-content--nhn-academy-6기---5ritang-팀-" class="anchor" aria-label="Permalink:  NHN Academy 6기 - 5ritang 팀"></a>
   </div>
-<markdown-accessiblity-table data-catalyst=""><table>
-<thead>
-<tr>
-<th><a href="https://github.com/2897robo"><img src="https://github.com/2897robo.png" width="100px" style="max-width: 100%;"><br>김기욱</a></th>
-<th><a href="https://github.com/Daun0808"><img src="https://github.com/Daun0808.png" width="100px" style="max-width: 100%;"><br>김다운</a></th>
-<th><a href="https://github.com/taehwan01"><img src="https://github.com/taehwan01.png" width="100px" style="max-width: 100%;"><br>김태환</a></th>
-<th><a href="https://github.com/dlrudgjs104"><img src="https://github.com/dlrudgjs104.png" width="100px" style="max-width: 100%;"><br>이경헌</a></th>
-<th><a href="https://github.com/kihoo-ni"> <img src="https://github.com/kihoo-ni.png" width="100px" style="max-width: 100%;"><br>이기훈</a></th>
-</tr>
-</thead>
-</table></markdown-accessiblity-table>
+  <markdown-accessiblity-table data-catalyst="">
+    <table>
+      <thead>
+        <tr>
+          <th><a href="https://github.com/2897robo"><img src="https://github.com/2897robo.png" width="100px" style="max-width: 100%;"><br>김기욱</a></th>
+          <th><a href="https://github.com/Daun0808"><img src="https://github.com/Daun0808.png" width="100px" style="max-width: 100%;"><br>김다운</a></th>
+          <th><a href="https://github.com/taehwan01"><img src="https://github.com/taehwan01.png" width="100px" style="max-width: 100%;"><br>김태환</a></th>
+          <th><a href="https://github.com/dlrudgjs104"><img src="https://github.com/dlrudgjs104.png" width="100px" style="max-width: 100%;"><br>이경헌</a></th>
+          <th><a href="https://github.com/kihoo-ni"> <img src="https://github.com/kihoo-ni.png" width="100px" style="max-width: 100%;"><br>이기훈</a></th>
+        </tr>
+      </thead>
+    </table>
+</markdown-accessiblity-table>
 </div>
 
 #  5ritang_Repository
@@ -265,6 +266,8 @@
 #### Coupon
 <img width="1444" alt="스크린샷 2024-07-31 오후 1 51 44" src="https://github.com/user-attachments/assets/a23bba14-c23d-4c20-8e0a-bf761b0787a5">
 
+### Account, Back, Coupon, Front
+![프론트, 백, 쿠폰, 인증 서버 커버리지](https://github.com/user-attachments/assets/ded187ca-e861-4e8b-bb06-6a81e876aa0d)
 
 
 
