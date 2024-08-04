@@ -103,7 +103,6 @@
 ### ERD
 <p>
     <img src="https://img.shields.io/badge/ERDCloud-000000?style=for-the-badge&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/ERDCloud-000000?style=for-the-badge&logo=cloud&logoColor=white">
 </p>
 
 ### Message Queue
