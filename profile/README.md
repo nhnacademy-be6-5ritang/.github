@@ -316,6 +316,7 @@ https://naver.github.io/hackday-conventions-java/
 
 ---
 # 개인별 구현 상세내역
+
 ---
 # [김다운](https://github.com/Daun0808)
 
@@ -352,7 +353,7 @@ https://naver.github.io/hackday-conventions-java/
 
 ## 구현한 기능
 
-| 역할      | 상세내용                                                                                  |
+| 역할      | 상세내용                                                                                     |
 |-----------|-------------------------------------------------------------------------------------------|
 | **인프라** |                                                                                           |
 |           | - 쿠폰서버 구현 및 CI/CD 적용                                                                 |
@@ -364,11 +365,10 @@ https://naver.github.io/hackday-conventions-java/
 |           | - 사용자 쿠폰 발급, 사용됨 처리, 조회(페이지네이션, 검색)                                            |
 |           | - 주문 시 쿠폰 선택 기능(비회원/회원), 쿠폰 계산 처리                                               |
 |           | - Spring Scheduler를 사용하여 생일 쿠폰, 쿠폰 사용됨 처리 구현                                     |
-|           | - Querydsl을 사용하여 코드를 간결하게 보기에하고 기존 jpql로 작성된 코드의 불편한점을 개선       
+|           | - Querydsl을 사용하여 코드를 간결하게 보기에하고 기존 jpql로 작성된 코드의 불편한점을 개선                 |
 |           | - N+1문제를 확인하고 이를 개선하기위해 노력함                                                      |
 |           | - Coupon REST API 문서를 Swagger를 통해 배포 서버에서 볼 수 있게 함                               |
-|           | - 사용자 쿠폰 발급 시 RabbitMQ를 이용하여 발급 처리   
----
+|           | - 사용자 쿠폰 발급 시 RabbitMQ를 이용하여 발급 처리                                               |
 
 ## 사용한 기술
 - rabbitmq
@@ -414,8 +414,8 @@ https://naver.github.io/hackday-conventions-java/
 - Secure Key Manager
 - 워지윅 에디터
 - Redis 캐싱
----
 
+---
 # [김기욱](https://github.com/2897robo)
 
 ## 구현한 기능
@@ -430,7 +430,6 @@ https://naver.github.io/hackday-conventions-java/
 | **검색**  |                                                                                            |
 |           | - LogStash, Kibana, Elastic 초기 설정                                                       |
 |           | - 저자, 도서, 태그, 출판사 기준으로 검색 기능 구현                                                   |
----
 
 ## 사용한 기술
 - Elastic Search
