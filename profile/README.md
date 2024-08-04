@@ -12,18 +12,17 @@
 
 <div align="center" dir="auto">
   <a href="https://www.ckin.store" rel="nofollow">
-    <img width="40%" src="https://private-user-images.githubusercontent.com/84575041/314944069-3ad87d06-6600-490a-afaa-8360c2cc7970.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3NjM1MDIsIm5iZiI6MTcyMjc2MzIwMiwicGF0aCI6Ii84NDU3NTA0MS8zMTQ5NDQwNjktM2FkODdkMDYtNjYwMC00OTBhLWFmYWEtODM2MGMyY2M3OTcwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA0VDA5MjAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2NDJhZDM4NjFlMTRmMWMwNGEzOTAwMmQxNzM2YjQ0ZGRlZjViZTNhOGUyNjAxYTBkNmQyMjBhYTZmYWY3MjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.qq2Lbej-y_KlpGVkKonVoHMTj7ImcqcYKm9XMzib5Wk" secured-asset-link="" style="max-width: 100%;">
+    <img width="40%" src="https://github.com/user-attachments/assets/30cb4e39-ba7a-401a-a849-6485a9fa0511" secured-asset-link="" style="max-width: 100%;">
   </a> 
   <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto"> NHN Academy 4기 - CKIN 팀 </h3><a id="user-content--nhn-academy-6기---5RITANG-팀-" class="anchor" aria-label="Permalink:  NHN Academy 6기 - 5RITANG 팀"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
 <tr>
-<th><a href="https://github.com/f1v3-dev"><img src="https://github.com/f1v3-dev.png" width="100px" style="max-width: 100%;"><br>정승조</a></th>
-<th><a href="https://github.com/dduneon"><img src="https://github.com/dduneon.png" width="100px" style="max-width: 100%;"><br>김준현</a></th>
-<th><a href="https://github.com/devhomh"><img src="https://github.com/devhomh.png" width="100px" style="max-width: 100%;"><br>이진우</a></th>
-<th><a href="https://github.com/nayoseb"><img src="https://github.com/nayoseb.png" width="100px" style="max-width: 100%;"><br>나국로</a></th>
-<th><a href="https://github.com/nueag"> <img src="https://github.com/nueag.png" width="100px" style="max-width: 100%;"><br>이가은</a></th>
-<th><a href="https://github.com/unhas01"><img src="https://github.com/unhas01.png" width="100px" style="max-width: 100%;"><br>박경서(TA)</a></th>
+<th><a href="https://github.com/2897robo"><img src="https://github.com/2897robo.png" width="100px" style="max-width: 100%;"><br>김기욱</a></th>
+<th><a href="https://github.com/Daun0808"><img src="https://github.com/Daun0808.png" width="100px" style="max-width: 100%;"><br>김다운</a></th>
+<th><a href="https://github.com/taehwan01"><img src="https://github.com/taehwan01.png" width="100px" style="max-width: 100%;"><br>김태환</a></th>
+<th><a href="https://github.com/dlrudgjs104"><img src="https://github.com/dlrudgjs104.png" width="100px" style="max-width: 100%;"><br>이경헌</a></th>
+<th><a href="https://github.com/kihoo-ni"> <img src="https://github.com/kihoo-ni.png" width="100px" style="max-width: 100%;"><br>이기훈</a></th>
 </tr>
 </thead>
 </table></markdown-accessiblity-table>
