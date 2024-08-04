@@ -166,7 +166,7 @@
 
 # ER-Diagram
 
- ***https://www.erdcloud.com/d/vD5T9WrpW2PMZZvR2***  `ERDCloud` 활용하여 버전업하면서 관리함.
+ ***https://www.erdcloud.com/d/vD5T9WrpW2PMZZvR2***  `ERDCloud` 활용하여 버전별로 관리
 
 5ritang_final
 ![오리탕 ERD v3 0](https://github.com/user-attachments/assets/f121f58d-0316-49cb-b57e-857862e413a2)
