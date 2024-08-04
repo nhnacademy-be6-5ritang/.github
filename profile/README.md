@@ -317,7 +317,6 @@ https://naver.github.io/hackday-conventions-java/
 ---
 # 개인별 구현 상세내역
 ---
-
 # [김다운](https://github.com/Daun0808)
 
 ## 구현한 기능
@@ -371,7 +370,6 @@ https://naver.github.io/hackday-conventions-java/
 |           | - 사용자 쿠폰 발급 시 RabbitMQ를 이용하여 발급 처리   
 ---
 
-
 ## 사용한 기술
 - rabbitmq
 - spring scheduler
@@ -379,7 +377,6 @@ https://naver.github.io/hackday-conventions-java/
 - springcloud, eureka, gateway
 
 ---
-
 # [이경헌](https://github.com/dlrudgjs104)
 
 ## 구현한 기능
@@ -399,8 +396,8 @@ https://naver.github.io/hackday-conventions-java/
 |            | 도서, 카테고리, 태그, 출판사, 저자, 도서상태 관리                         |
 |            | 도서 카테고리별 검색 및 정렬                                          |
 |            | 모든 도서는 하나 이상의 카테고리에 속해야 하며, 카테고리는 2단계 이상으로 구성    |
-|            | 0개 이상의 Tag를 지정할 수 있음                                      |
-|            | 도서 위시리스트                                                    |
+|            | 0개 이상의 Tag를 지정 가능                                          |
+|            | 회원별 도서 위시리스트 구현                                           |
 |            | WYSIWYG Editor를 사용한 책 설명 등록 (toast-editor)                 |
 | **리뷰**    |                                                                |
 |            | 리뷰 사진 업로드 구현                                               |
@@ -417,7 +414,6 @@ https://naver.github.io/hackday-conventions-java/
 - Secure Key Manager
 - 워지윅 에디터
 - Redis 캐싱
-
 ---
 
 # [김기욱](https://github.com/2897robo)
