@@ -260,16 +260,8 @@
 - 정적 코드 분석 도구인 `SonarQube`를 활용하였습니다.
 - 목표 : Coverage 80%
 
-#### Back
-<img width="1456" alt="스크린샷 2024-07-21 오후 9 05 55" src="https://github.com/user-attachments/assets/14338c03-bb8c-46f5-ae96-987743965d21">
-
-#### Coupon
-<img width="1444" alt="스크린샷 2024-07-31 오후 1 51 44" src="https://github.com/user-attachments/assets/a23bba14-c23d-4c20-8e0a-bf761b0787a5">
-
 ### Account, Back, Coupon, Front
 ![프론트, 백, 쿠폰, 인증 서버 커버리지](https://github.com/user-attachments/assets/ded187ca-e861-4e8b-bb06-6a81e876aa0d)
-
-
 
 ---
 
