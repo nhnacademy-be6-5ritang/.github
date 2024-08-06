@@ -460,3 +460,11 @@ https://naver.github.io/hackday-conventions-java/
 |   | 회원 및 관리자 권한 정책 및 부여 구현 |
 | **프론트엔드** |   |
 |   | 사용자 전용 UI 리뉴얼 및 템플릿 구축 |
+
+## 사용한 기술
+- NHN Cloud
+- Nginx
+- JWT
+- Spring Scheduler
+- Java MailSender
+- Daum 주소 API
