@@ -386,7 +386,7 @@ https://naver.github.io/hackday-conventions-java/
 | **인프라**   |                                                                |
 |            | 서버별 Logback, Log & Crash 적용                                  |
 |            | Secure Key Manager                                             |
-|            | Back-end Servcer 이중화                                          |
+|            | Back-end Server 이중화                                          |
 | **장바구니** |                                                                |
 |            | 비회원 & 회원 장바구니                                              |
 |            | 도서 재고량에 따른 장바구니 추가 구현                                   |
@@ -439,3 +439,20 @@ https://naver.github.io/hackday-conventions-java/
 - 외부 API (네이버, 알라딘)
 - NHN Cloud Image Manager
 
+
+---
+# [김태환](https://github.com/taehwan01)
+
+## 구현한 기능
+| 역할 | 상세내용 |
+| --- | --- |
+| **인프라** |   |
+|   | Frontend Server 이중화 |
+|   | Nginx 활용 로드 밸런싱 |
+| **인증 및 인가** |   |
+|   | JWT를 이용한 회원 인증 및 인가 구현 |
+| **회원** |   |
+|   | 회원(계정) 가입, 정보 수정, 휴면 처리, 탈퇴 API 구현 |
+|   | 회원 가입 시 중복 방지와 휴면 계정 복구를 위한 이메일 인증 추가 |
+| **프론트엔드** |   |
+|   | 사용자 전용 UI 리뉴얼 및 템플릿 구축 |
