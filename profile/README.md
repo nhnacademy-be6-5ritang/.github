@@ -215,7 +215,7 @@
 
 # Architecture
 
-![final_architecture](https://github.com/user-attachments/assets/c2d577d8-3a12-46c7-903d-2e27f14fbfa4)
+![오리탕 아키텍처](https://github.com/user-attachments/assets/5a057577-d158-4b69-9cc1-8539d05d773b)
 
 
 ---
