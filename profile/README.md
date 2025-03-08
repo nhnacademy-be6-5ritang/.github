@@ -21,7 +21,7 @@
         <tr>
           <th><a href="https://github.com/2897robo"><img src="https://github.com/2897robo.png" width="100px" style="max-width: 100%;"><br>김기욱</a></th>
           <th><a href="https://github.com/Daun0808"><img src="https://github.com/Daun0808.png" width="100px" style="max-width: 100%;"><br>김다운</a></th>
-          <th><a href="https://github.com/taehwan01"><img src="https://github.com/taehwan01.png" width="100px" style="max-width: 100%;"><br>김태환</a></th>
+          <th><a href="https://github.com/monte-kim"><img src="https://github.com/monte-kim.png" width="100px" style="max-width: 100%;"><br>김태환</a></th>
           <th><a href="https://github.com/dlrudgjs104"><img src="https://github.com/dlrudgjs104.png" width="100px" style="max-width: 100%;"><br>이경헌</a></th>
           <th><a href="https://github.com/kihoo-ni"> <img src="https://github.com/kihoo-ni.png" width="100px" style="max-width: 100%;"><br>이기훈</a></th>
         </tr>
